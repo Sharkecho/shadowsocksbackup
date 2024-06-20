@@ -1,5 +1,5 @@
 # shadowsocksbackup
-回国专线一键搭建
+回国专线一键搭建    脚本包含了一些针对Red Hat系（如CentOS）和Debian系（如Ubuntu）的混合指令  如果是db11就要需要修改脚本
 ````bash 
 bash <(curl -Ls https://raw.githubusercontent.com/siemenstutorials/shadowsocksbackup/master/Sgo.sh)
 ````
